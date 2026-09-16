@@ -6,13 +6,14 @@
 <img width="1024" height="890" alt="22" src="https://github.com/user-attachments/assets/cbe91dd3-490c-4e37-a084-2b28e5f598c3" />
 
 ## 🚀 Start ##
-<img width="512" height="512" alt="1" src="https://github.com/user-attachments/assets/ba78e900-a850-48b6-b778-47eeb17f2cb9" />
+
+![Uploading 2b60b025-50d2-41e4-9afd-84f9bafea866.png…]()  
 
 ## Won 🏆 ## OR  ## Game Over 😞 ##
 
 <img width="1024" height="767" alt="8" src="https://github.com/user-attachments/assets/0c832dfc-c54c-4a0f-9534-5dc3867fa948" />
 
-*** OR ***
+ ## OR ##
 
 <img width="1024" height="767" alt="5" src="https://github.com/user-attachments/assets/697d0aca-d741-4db4-9a4b-5a9469efbd9c" />
 
