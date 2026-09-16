@@ -6,8 +6,8 @@
 <img width="1024" height="890" alt="22" src="https://github.com/user-attachments/assets/cbe91dd3-490c-4e37-a084-2b28e5f598c3" />
 
 ## 🚀 Start ##
-
-![Uploading 2b60b025-50d2-41e4-9afd-84f9bafea866.png…]()  
+ 
+<img width="1450" height="1085" alt="image" src="https://github.com/user-attachments/assets/f68c7b69-a191-47a6-bfd9-f64bdc570869" />
 
 ## Won 🏆 ## OR  ## Game Over 😞 ##
 
